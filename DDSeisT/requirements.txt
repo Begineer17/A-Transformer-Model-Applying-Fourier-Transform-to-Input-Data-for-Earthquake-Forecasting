@@ -1,0 +1,17 @@
+GPUtil
+h5py
+matplotlib
+numpy
+obspy
+onnx
+onnxruntime
+openpyxl
+pandas
+scipy
+tensorboard
+tensorboard-data-server
+tensorboard-plugin-wit
+timm
+torch
+xlrd
+tensorflow
